@@ -1,0 +1,29 @@
+body {
+  color: #000000;
+  font-family: Verdana, sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+header {
+  background-color: #efefef;
+}
+
+.container {
+  background-color: pink;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  display: flex;
+}
+
+.icon {
+  background-color: skyblue;
+}
+
+.info {
+  background-color: tomato;
+  margin-left: 32px;
+}
